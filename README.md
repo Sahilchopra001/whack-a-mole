@@ -1,6 +1,5 @@
 <h1>Whack a Mole</h1>
 
-This is a group project made by a team of 5 students from Chandigarh University, India 🎌
 
 
 <h2>How we decided the problem statement?</h2>
